@@ -2,7 +2,7 @@ const express = require("express");
 const path = require("path");
 
 const complements = [
-  "You like nice today",
+  "You like great today",
   "That dress looks nice on you",
   "Have you been working out?",
   "You can do hard things",
